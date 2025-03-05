@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/Ajizzz13/mix/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}Cfg/rclone.conf"
